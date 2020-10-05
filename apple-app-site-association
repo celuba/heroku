@@ -9,6 +9,10 @@
       {
         "appID": "BA9C8TYC7C.cz.csas.app.friends24.enterprise.native",
         "paths": ["/*/friends24/loginapi/v1"]
+      },
+      {
+        "appID": "BA9C8TYC7C.com.finovak.UniversalLinks",
+        "paths": ["*"]
       }
     ]
   }
